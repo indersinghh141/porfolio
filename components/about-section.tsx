@@ -17,7 +17,7 @@ export function AboutSection() {
             <div className="relative w-full h-96 lg:h-[500px] rounded-3xl overflow-hidden shadow-2xl">
               <Image
                 src="/placeholder.svg?height=500&width=400"
-                alt="Sarah Chen - Professional Photographer"
+                alt="Inder Singh - Professional Photographer"
                 fill
                 className="object-cover"
               />
@@ -29,7 +29,7 @@ export function AboutSection() {
 
           <div>
             <h2 className="text-4xl lg:text-5xl font-light text-gray-800 mb-6">
-              About <span className="font-semibold text-pink-400">Sarah</span>
+              About <span className="font-semibold text-pink-400">Inder</span>
             </h2>
             <div className="space-y-6 text-gray-600 text-lg leading-relaxed">
               <p>

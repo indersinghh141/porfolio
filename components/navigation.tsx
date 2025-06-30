@@ -20,7 +20,7 @@ export function Navigation() {
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center space-x-2">
             <Camera className="h-8 w-8 text-pink-400" />
-            <span className="text-xl font-semibold text-gray-800">Sarah Chen</span>
+            <span className="text-xl font-semibold text-gray-800">Inder Singh</span>
           </div>
 
           {/* Desktop Navigation */}
